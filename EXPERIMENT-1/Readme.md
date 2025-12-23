@@ -67,7 +67,7 @@ class quadraticeq {
 ### CASE-1 (D>0)
 ![case 1 study](quad1.png)
 ### CASE-2 (D==0)
-![case study 2](quad2/png)
+![case study 2](quad2.png)
 ### CASE-3 (D<0)
 ![Case study 3](quad3.png)
 

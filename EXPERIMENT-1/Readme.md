@@ -1,4 +1,4 @@
-<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/32c4146e-51ea-4b3e-8056-1b1e7079083f" /># ESPERIMENT-1
+# Experiment-1
 ## 1a) TiTle: Display Default Primitive types
 ## Source Code
 ```java

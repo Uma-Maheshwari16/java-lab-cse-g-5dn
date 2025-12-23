@@ -23,7 +23,8 @@ class DisplayDefaultPrimitiveType{
         System.out.println("default value of boolean " + dDPT.PrimBoolean);
     }
 }
-```java
+
+```
 
 ## Output :
 ![ output for week1](defaultprimitive.png)

@@ -116,7 +116,7 @@ class Main {
 # Output:
 ![output for 3b](BinarySearch.png)
 
-## exp3b) Title: Bubble Sort 
+## exp3c) Title: Bubble Sort 
 ## Source Code:
 ```java
 import java.util.Scanner;

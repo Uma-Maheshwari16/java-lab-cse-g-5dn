@@ -29,7 +29,7 @@ class Main {
         Student std = new Student();
         std.display();
 
-        Student std1 = new Student("Suvi", 18, 97.8);
+        Student std1 = new Student("Uma", 19, 87.8);
         std1.display();
     }
 }
